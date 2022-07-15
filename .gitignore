@@ -1,0 +1,7 @@
+.DS_Store
+_site/
+Gemfile.lock
+build.sh
+run_server.sh
+.jekyll-cache/
+*.swp
